@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_PYGUSDEURBRLARS</name>
+   <tag></tag>
+   <elementGuidId>d267328e-2234-4460-83d9-b8c6fe3f9f9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/main/div/div/div[2]/div/div/div/div/form/fieldset/div[2]/div[4]/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=group >> div >> internal:has-text=&quot;Way Give Orders: ManagedWrittenAccount Usage: IndistinctIndividualJointAccount P&quot;i >> internal:role=combobox >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>413da7e9-fcab-446d-b956-ec5e093af576</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>da5f166b-d564-46f5-bdc7-9206cb0b5850</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PYGUSDEURBRLARS</value>
+      <webElementGuid>e8b0179a-badc-400b-954f-4bf505275bca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;block-center mt-4 wd-80 card&quot;]/div[@class=&quot;card-body&quot;]/div[1]/div[@class=&quot;rsw_2Y&quot;]/div[@class=&quot;rsw_2f  rsw_3G&quot;]/div[1]/form[1]/fieldset[@class=&quot;form-group&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;form-group&quot;]/select[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>3f00fb02-f0fc-466d-9922-723a8419a001</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/main/div/div/div[2]/div/div/div/div/form/fieldset/div[2]/div[4]/div/select</value>
+      <webElementGuid>3dce0e13-d87d-44bf-898d-5849414b297b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency:'])[1]/following::select[1]</value>
+      <webElementGuid>babf0b80-e724-4cd2-90a2-4ba532d4d2d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Purpose:'])[1]/following::select[2]</value>
+      <webElementGuid>dbfd1833-350b-4327-91ba-3f968df37b00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rep:'])[1]/preceding::select[1]</value>
+      <webElementGuid>2c827df8-f441-4ef0-956e-90ba703cbc22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This field is required.'])[1]/preceding::select[2]</value>
+      <webElementGuid>5caf7bab-3b3e-4ad3-8149-c84ae2affb20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/select</value>
+      <webElementGuid>ccd058fd-ebb6-4220-9360-b431157eba86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'PYGUSDEURBRLARS' or . = 'PYGUSDEURBRLARS')]</value>
+      <webElementGuid>b752d689-c4eb-4fc7-88b3-e0adc01b8c78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

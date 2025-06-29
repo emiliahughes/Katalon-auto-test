@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save_Holder</name>
+   <tag></tag>
+   <elementGuidId>09f62f7e-833c-47b4-b2e9-c66571a194a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class, 'modal-footer')]//button[contains(@class, 'btn-primary') and .//span[text()='Save']]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ladda-button.btn.btn-ladda.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Save&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ae606483-ea5b-4312-8ced-40faa42065c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ladda-button btn btn-ladda btn-primary</value>
+      <webElementGuid>5cbde0f0-e166-44a5-84d1-286ff7cf6565</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-style</name>
+      <type>Main</type>
+      <value>expand-right</value>
+      <webElementGuid>2997b9db-8b60-4590-a0bf-b62daa900ed2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>fec9f1a6-c8bc-44e7-8248-8527809dd678</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;app-body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;block-center mt-4 wd-80 card&quot;]/div[@class=&quot;card-body&quot;]/div[1]/div[@class=&quot;rsw_2Y&quot;]/div[@class=&quot;rsw_2f  rsw_3G&quot;]/div[1]/button[@class=&quot;ladda-button btn btn-ladda btn-primary&quot;]</value>
+      <webElementGuid>53112455-eb8d-4d70-8507-689f0f74e280</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/main/div/div/div[2]/div/div/div/div/button</value>
+      <webElementGuid>50fd8791-d7c7-45a4-80b4-6ca396f7ae5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Founds Origin'])[1]/following::button[1]</value>
+      <webElementGuid>349ead92-9695-4684-9c52-80ffbda545e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book Info:'])[1]/following::button[1]</value>
+      <webElementGuid>665e31bc-630a-4299-87bd-7e5b2e0afad4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/button</value>
+      <webElementGuid>45618b52-c716-4ebb-9b09-424ccc7e5192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>6c3761f4-989a-4bc5-9feb-36e86f7a110e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
