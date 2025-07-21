@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginCxSudameris</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e316d84e-46fd-4b8b-9a4e-8b3acd2e8f5a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4f20e36d-c4d2-4a22-b47e-f1c669e0e440</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9463f765-46a9-40b5-96af-6d29a51c9c49</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'2376689'</defaultValue>
+      <description></description>
+      <id>4f20e36d-c4d2-4a22-b47e-f1c669e0e440</id>
+      <masked>false</masked>
+      <name>usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>'2376689'</defaultValue>
+      <description></description>
+      <id>9463f765-46a9-40b5-96af-6d29a51c9c49</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
